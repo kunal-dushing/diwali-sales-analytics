@@ -1,0 +1,501 @@
+OrderID,OrderDate,FestivalPhase,ProductID,ProductName,Category,City,Channel,Quantity,ListPriceINR,DiscountPct,SellingPriceINR,UnitCostINR,RevenueINR,ProfitINR
+D26-00001,14-11-2026,Post-Diwali,P004,Power Bank,Electronics,Jaipur,Amazon.in,2,1799,38,1115.38,950,2230.76,330.76
+D26-00002,17-10-2026,Pre-Diwali,P014,Sunglasses,Fashion,Jaipur,Amazon.in,4,1899,27,1386.27,830,5545.08,2225.08
+D26-00003,14-10-2026,Pre-Diwali,P009,Cookware Set,Home,Chennai,Amazon.in,3,3999,9,3639.09,2200,10917.27,4317.27
+D26-00004,10-11-2026,Post-Diwali,P011,Running Shoes,Fashion,Hyderabad,Marketplace,4,3799,5,3609.05,2100,14436.2,6036.2
+D26-00005,01-10-2026,Pre-Diwali,P006,Air Fryer,Home,Delhi,Marketplace,3,8999,34,5939.34,5700,17818.02,718.02
+D26-00006,05-11-2026,Post-Diwali,P003,Bluetooth Speaker,Electronics,Mumbai,Marketplace,1,3299,5,3134.05,1800,3134.05,1334.05
+D26-00007,15-10-2026,Pre-Diwali,P006,Air Fryer,Home,Kolkata,Marketplace,1,8999,15,7649.15,5700,7649.15,1949.15
+D26-00008,13-11-2026,Post-Diwali,P006,Air Fryer,Home,Pune,Amazon.in,3,8999,8,8279.08,5700,24837.24,7737.24
+D26-00009,07-11-2026,Post-Diwali,P002,Smart Watch,Electronics,Mumbai,Amazon.in,4,4999,33,3349.33,2900,13397.32,1797.32
+D26-00010,05-10-2026,Pre-Diwali,P018,Perfume Gift Set,Beauty,Pune,Amazon.in,2,2999,36,1919.36,1550,3838.72,738.72
+D26-00011,09-11-2026,Post-Diwali,P006,Air Fryer,Home,Delhi,Marketplace,3,8999,30,6299.3,5700,18897.9,1797.9
+D26-00012,26-10-2026,Diwali Week,P004,Power Bank,Electronics,Mumbai,Amazon.in,3,1799,20,1439.2,950,4317.6,1467.6
+D26-00013,20-10-2026,Pre-Diwali,P017,Hair Dryer,Beauty,Chennai,Marketplace,1,2499,38,1549.38,1300,1549.38,249.38
+D26-00014,28-10-2026,Diwali Week,P015,Wrist Watch,Fashion,Jaipur,Amazon.in,2,2799,40,1679.4,1450,3358.8,458.8
+D26-00015,04-11-2026,Post-Diwali,P020,Chocolate Hamper,Grocery,Jaipur,Marketplace,2,999,8,919.08,580,1838.16,678.16
+D26-00016,14-11-2026,Post-Diwali,P014,Sunglasses,Fashion,Mumbai,Amazon.in,1,1899,18,1557.18,830,1557.18,727.18
+D26-00017,14-10-2026,Pre-Diwali,P018,Perfume Gift Set,Beauty,Kolkata,Marketplace,2,2999,16,2519.16,1550,5038.32,1938.32
+D26-00018,17-10-2026,Pre-Diwali,P016,Skincare Gift Set,Beauty,Mumbai,Marketplace,3,1599,39,975.39,750,2926.17,676.17
+D26-00019,02-10-2026,Pre-Diwali,P007,Mixer Grinder,Home,Hyderabad,Amazon.in,2,5499,28,3959.28,3400,7918.56,1118.56
+D26-00020,25-10-2026,Diwali Week,P007,Mixer Grinder,Home,Jaipur,Marketplace,3,5499,30,3849.3,3400,11547.9,1347.9
+D26-00021,28-10-2026,Diwali Week,P015,Wrist Watch,Fashion,Jaipur,Marketplace,2,2799,30,1959.3,1450,3918.6,1018.6
+D26-00022,02-11-2026,Post-Diwali,P001,Wireless Earbuds,Electronics,Chennai,Amazon.in,4,2499,9,2274.09,1350,9096.36,3696.36
+D26-00023,14-11-2026,Post-Diwali,P011,Running Shoes,Fashion,Kolkata,Amazon.in,2,3799,23,2925.23,2100,5850.46,1650.46
+D26-00024,12-10-2026,Pre-Diwali,P005,LED Smart Bulb Set,Electronics,Hyderabad,Amazon.in,3,1299,15,1104.15,620,3312.45,1452.45
+D26-00025,11-11-2026,Post-Diwali,P004,Power Bank,Electronics,Pune,Amazon.in,3,1799,32,1223.32,950,3669.96,819.96
+D26-00026,19-10-2026,Pre-Diwali,P010,Decorative Lamp,Home,Chennai,Amazon.in,2,1599,21,1263.21,740,2526.42,1046.42
+D26-00027,03-10-2026,Pre-Diwali,P006,Air Fryer,Home,Bengaluru,Amazon.in,1,8999,27,6569.27,5700,6569.27,869.27
+D26-00028,20-10-2026,Pre-Diwali,P015,Wrist Watch,Fashion,Chennai,Marketplace,3,2799,37,1763.37,1450,5290.11,940.11
+D26-00029,14-10-2026,Pre-Diwali,P019,Dry Fruit Gift Box,Grocery,Bengaluru,Amazon.in,2,1299,33,870.33,820,1740.66,100.66
+D26-00030,10-10-2026,Pre-Diwali,P013,Cotton Kurta,Fashion,Hyderabad,Amazon.in,2,1499,40,899.4,680,1798.8,438.8
+D26-00031,01-11-2026,Post-Diwali,P003,Bluetooth Speaker,Electronics,Delhi,Amazon.in,1,3299,9,3002.09,1800,3002.09,1202.09
+D26-00032,08-10-2026,Pre-Diwali,P015,Wrist Watch,Fashion,Pune,Marketplace,1,2799,35,1819.35,1450,1819.35,369.35
+D26-00033,04-10-2026,Pre-Diwali,P016,Skincare Gift Set,Beauty,Chennai,Marketplace,1,1599,13,1391.13,750,1391.13,641.13
+D26-00034,06-11-2026,Post-Diwali,P012,Backpack,Fashion,Jaipur,Amazon.in,3,2299,10,2069.1,1150,6207.3,2757.3
+D26-00035,05-10-2026,Pre-Diwali,P013,Cotton Kurta,Fashion,Kolkata,Amazon.in,1,1499,5,1424.05,680,1424.05,744.05
+D26-00036,18-10-2026,Pre-Diwali,P008,Bedsheet Set,Home,Jaipur,Amazon.in,1,1999,30,1399.3,920,1399.3,479.3
+D26-00037,01-11-2026,Post-Diwali,P002,Smart Watch,Electronics,Pune,Amazon.in,1,4999,16,4199.16,2900,4199.16,1299.16
+D26-00038,04-10-2026,Pre-Diwali,P003,Bluetooth Speaker,Electronics,Chennai,Amazon.in,4,3299,27,2408.27,1800,9633.08,2433.08
+D26-00039,05-10-2026,Pre-Diwali,P003,Bluetooth Speaker,Electronics,Pune,Marketplace,3,3299,37,2078.37,1800,6235.11,835.11
+D26-00040,04-11-2026,Post-Diwali,P002,Smart Watch,Electronics,Mumbai,Amazon.in,2,4999,10,4499.1,2900,8998.2,3198.2
+D26-00041,01-11-2026,Post-Diwali,P004,Power Bank,Electronics,Kolkata,Marketplace,3,1799,18,1475.18,950,4425.54,1575.54
+D26-00042,03-10-2026,Pre-Diwali,P020,Chocolate Hamper,Grocery,Jaipur,Marketplace,2,999,12,879.12,580,1758.24,598.24
+D26-00043,04-11-2026,Post-Diwali,P012,Backpack,Fashion,Pune,Amazon.in,4,2299,6,2161.06,1150,8644.24,4044.24
+D26-00044,06-11-2026,Post-Diwali,P015,Wrist Watch,Fashion,Jaipur,Amazon.in,3,2799,29,1987.29,1450,5961.87,1611.87
+D26-00045,01-10-2026,Pre-Diwali,P005,LED Smart Bulb Set,Electronics,Bengaluru,Marketplace,2,1299,21,1026.21,620,2052.42,812.42
+D26-00046,13-10-2026,Pre-Diwali,P002,Smart Watch,Electronics,Chennai,Amazon.in,2,4999,39,3049.39,2900,6098.78,298.78
+D26-00047,01-10-2026,Pre-Diwali,P001,Wireless Earbuds,Electronics,Mumbai,Amazon.in,2,2499,39,1524.39,1350,3048.78,348.78
+D26-00048,18-10-2026,Pre-Diwali,P001,Wireless Earbuds,Electronics,Chennai,Marketplace,1,2499,25,1874.25,1350,1874.25,524.25
+D26-00049,11-11-2026,Post-Diwali,P014,Sunglasses,Fashion,Mumbai,Amazon.in,2,1899,28,1367.28,830,2734.56,1074.56
+D26-00050,08-10-2026,Pre-Diwali,P008,Bedsheet Set,Home,Hyderabad,Marketplace,2,1999,29,1419.29,920,2838.58,998.58
+D26-00051,26-10-2026,Diwali Week,P004,Power Bank,Electronics,Jaipur,Marketplace,4,1799,8,1655.08,950,6620.32,2820.32
+D26-00052,01-10-2026,Pre-Diwali,P012,Backpack,Fashion,Kolkata,Amazon.in,2,2299,18,1885.18,1150,3770.36,1470.36
+D26-00053,27-10-2026,Diwali Week,P005,LED Smart Bulb Set,Electronics,Kolkata,Marketplace,3,1299,21,1026.21,620,3078.63,1218.63
+D26-00054,01-11-2026,Post-Diwali,P013,Cotton Kurta,Fashion,Bengaluru,Marketplace,4,1499,32,1019.32,680,4077.28,1357.28
+D26-00055,22-10-2026,Diwali Week,P020,Chocolate Hamper,Grocery,Jaipur,Amazon.in,1,999,15,849.15,580,849.15,269.15
+D26-00056,21-10-2026,Diwali Week,P008,Bedsheet Set,Home,Kolkata,Amazon.in,4,1999,38,1239.38,920,4957.52,1277.52
+D26-00057,10-11-2026,Post-Diwali,P001,Wireless Earbuds,Electronics,Kolkata,Amazon.in,2,2499,7,2324.07,1350,4648.14,1948.14
+D26-00058,18-10-2026,Pre-Diwali,P008,Bedsheet Set,Home,Pune,Amazon.in,3,1999,26,1479.26,920,4437.78,1677.78
+D26-00059,04-11-2026,Post-Diwali,P001,Wireless Earbuds,Electronics,Chennai,Marketplace,4,2499,25,1874.25,1350,7497,2097
+D26-00060,07-10-2026,Pre-Diwali,P016,Skincare Gift Set,Beauty,Chennai,Marketplace,2,1599,26,1183.26,750,2366.52,866.52
+D26-00061,11-10-2026,Pre-Diwali,P008,Bedsheet Set,Home,Pune,Marketplace,1,1999,19,1619.19,920,1619.19,699.19
+D26-00062,13-10-2026,Pre-Diwali,P007,Mixer Grinder,Home,Chennai,Amazon.in,4,5499,38,3409.38,3400,13637.52,37.52
+D26-00063,24-10-2026,Diwali Week,P017,Hair Dryer,Beauty,Bengaluru,Marketplace,3,2499,40,1499.4,1300,4498.2,598.2
+D26-00064,01-10-2026,Pre-Diwali,P008,Bedsheet Set,Home,Hyderabad,Amazon.in,3,1999,20,1599.2,920,4797.6,2037.6
+D26-00065,12-10-2026,Pre-Diwali,P012,Backpack,Fashion,Pune,Amazon.in,3,2299,15,1954.15,1150,5862.45,2412.45
+D26-00066,10-10-2026,Pre-Diwali,P012,Backpack,Fashion,Chennai,Marketplace,4,2299,34,1517.34,1150,6069.36,1469.36
+D26-00067,31-10-2026,Post-Diwali,P017,Hair Dryer,Beauty,Mumbai,Marketplace,1,2499,40,1499.4,1300,1499.4,199.4
+D26-00068,09-10-2026,Pre-Diwali,P008,Bedsheet Set,Home,Jaipur,Marketplace,4,1999,12,1759.12,920,7036.48,3356.48
+D26-00069,09-11-2026,Post-Diwali,P014,Sunglasses,Fashion,Kolkata,Amazon.in,1,1899,9,1728.09,830,1728.09,898.09
+D26-00070,13-10-2026,Pre-Diwali,P009,Cookware Set,Home,Pune,Amazon.in,2,3999,27,2919.27,2200,5838.54,1438.54
+D26-00071,26-10-2026,Diwali Week,P013,Cotton Kurta,Fashion,Pune,Marketplace,1,1499,9,1364.09,680,1364.09,684.09
+D26-00072,11-10-2026,Pre-Diwali,P012,Backpack,Fashion,Pune,Amazon.in,3,2299,13,2000.13,1150,6000.39,2550.39
+D26-00073,25-10-2026,Diwali Week,P015,Wrist Watch,Fashion,Pune,Marketplace,3,2799,23,2155.23,1450,6465.69,2115.69
+D26-00074,23-10-2026,Diwali Week,P019,Dry Fruit Gift Box,Grocery,Chennai,Amazon.in,2,1299,28,935.28,820,1870.56,230.56
+D26-00075,06-11-2026,Post-Diwali,P005,LED Smart Bulb Set,Electronics,Kolkata,Amazon.in,3,1299,9,1182.09,620,3546.27,1686.27
+D26-00076,11-11-2026,Post-Diwali,P003,Bluetooth Speaker,Electronics,Mumbai,Marketplace,3,3299,20,2639.2,1800,7917.6,2517.6
+D26-00077,24-10-2026,Diwali Week,P016,Skincare Gift Set,Beauty,Pune,Amazon.in,4,1599,6,1503.06,750,6012.24,3012.24
+D26-00078,09-11-2026,Post-Diwali,P012,Backpack,Fashion,Delhi,Amazon.in,2,2299,25,1724.25,1150,3448.5,1148.5
+D26-00079,12-11-2026,Post-Diwali,P010,Decorative Lamp,Home,Bengaluru,Amazon.in,4,1599,30,1119.3,740,4477.2,1517.2
+D26-00080,31-10-2026,Post-Diwali,P009,Cookware Set,Home,Bengaluru,Amazon.in,1,3999,23,3079.23,2200,3079.23,879.23
+D26-00081,05-10-2026,Pre-Diwali,P012,Backpack,Fashion,Delhi,Amazon.in,4,2299,36,1471.36,1150,5885.44,1285.44
+D26-00082,25-10-2026,Diwali Week,P016,Skincare Gift Set,Beauty,Kolkata,Marketplace,4,1599,27,1167.27,750,4669.08,1669.08
+D26-00083,15-10-2026,Pre-Diwali,P013,Cotton Kurta,Fashion,Jaipur,Amazon.in,2,1499,32,1019.32,680,2038.64,678.64
+D26-00084,03-10-2026,Pre-Diwali,P018,Perfume Gift Set,Beauty,Bengaluru,Marketplace,2,2999,25,2249.25,1550,4498.5,1398.5
+D26-00085,06-10-2026,Pre-Diwali,P009,Cookware Set,Home,Hyderabad,Marketplace,1,3999,12,3519.12,2200,3519.12,1319.12
+D26-00086,02-10-2026,Pre-Diwali,P010,Decorative Lamp,Home,Jaipur,Marketplace,1,1599,22,1247.22,740,1247.22,507.22
+D26-00087,20-10-2026,Pre-Diwali,P010,Decorative Lamp,Home,Mumbai,Amazon.in,2,1599,15,1359.15,740,2718.3,1238.3
+D26-00088,08-11-2026,Post-Diwali,P009,Cookware Set,Home,Bengaluru,Marketplace,4,3999,8,3679.08,2200,14716.32,5916.32
+D26-00089,17-10-2026,Pre-Diwali,P012,Backpack,Fashion,Kolkata,Marketplace,1,2299,11,2046.11,1150,2046.11,896.11
+D26-00090,14-11-2026,Post-Diwali,P009,Cookware Set,Home,Pune,Marketplace,3,3999,20,3199.2,2200,9597.6,2997.6
+D26-00091,29-10-2026,Diwali Week,P019,Dry Fruit Gift Box,Grocery,Mumbai,Marketplace,3,1299,16,1091.16,820,3273.48,813.48
+D26-00092,09-11-2026,Post-Diwali,P008,Bedsheet Set,Home,Kolkata,Amazon.in,3,1999,20,1599.2,920,4797.6,2037.6
+D26-00093,12-10-2026,Pre-Diwali,P017,Hair Dryer,Beauty,Pune,Amazon.in,2,2499,14,2149.14,1300,4298.28,1698.28
+D26-00094,11-10-2026,Pre-Diwali,P016,Skincare Gift Set,Beauty,Chennai,Amazon.in,3,1599,35,1039.35,750,3118.05,868.05
+D26-00095,23-10-2026,Diwali Week,P016,Skincare Gift Set,Beauty,Chennai,Amazon.in,1,1599,16,1343.16,750,1343.16,593.16
+D26-00096,16-10-2026,Pre-Diwali,P009,Cookware Set,Home,Chennai,Amazon.in,2,3999,34,2639.34,2200,5278.68,878.68
+D26-00097,19-10-2026,Pre-Diwali,P020,Chocolate Hamper,Grocery,Hyderabad,Marketplace,4,999,35,649.35,580,2597.4,277.4
+D26-00098,03-11-2026,Post-Diwali,P011,Running Shoes,Fashion,Chennai,Amazon.in,3,3799,13,3305.13,2100,9915.39,3615.39
+D26-00099,03-10-2026,Pre-Diwali,P014,Sunglasses,Fashion,Delhi,Amazon.in,1,1899,36,1215.36,830,1215.36,385.36
+D26-00100,11-11-2026,Post-Diwali,P003,Bluetooth Speaker,Electronics,Kolkata,Marketplace,3,3299,8,3035.08,1800,9105.24,3705.24
+D26-00101,14-11-2026,Post-Diwali,P008,Bedsheet Set,Home,Hyderabad,Amazon.in,4,1999,6,1879.06,920,7516.24,3836.24
+D26-00102,08-11-2026,Post-Diwali,P013,Cotton Kurta,Fashion,Bengaluru,Marketplace,3,1499,37,944.37,680,2833.11,793.11
+D26-00103,07-10-2026,Pre-Diwali,P011,Running Shoes,Fashion,Pune,Marketplace,2,3799,8,3495.08,2100,6990.16,2790.16
+D26-00104,13-11-2026,Post-Diwali,P004,Power Bank,Electronics,Kolkata,Amazon.in,1,1799,25,1349.25,950,1349.25,399.25
+D26-00105,02-11-2026,Post-Diwali,P012,Backpack,Fashion,Delhi,Marketplace,2,2299,13,2000.13,1150,4000.26,1700.26
+D26-00106,09-11-2026,Post-Diwali,P007,Mixer Grinder,Home,Mumbai,Marketplace,1,5499,39,3354.39,3400,3354.39,-45.61
+D26-00107,07-11-2026,Post-Diwali,P014,Sunglasses,Fashion,Delhi,Amazon.in,3,1899,12,1671.12,830,5013.36,2523.36
+D26-00108,02-10-2026,Pre-Diwali,P009,Cookware Set,Home,Chennai,Marketplace,4,3999,38,2479.38,2200,9917.52,1117.52
+D26-00109,08-10-2026,Pre-Diwali,P020,Chocolate Hamper,Grocery,Kolkata,Marketplace,4,999,39,609.39,580,2437.56,117.56
+D26-00110,29-10-2026,Diwali Week,P009,Cookware Set,Home,Hyderabad,Amazon.in,2,3999,7,3719.07,2200,7438.14,3038.14
+D26-00111,03-10-2026,Pre-Diwali,P004,Power Bank,Electronics,Chennai,Amazon.in,4,1799,15,1529.15,950,6116.6,2316.6
+D26-00112,23-10-2026,Diwali Week,P018,Perfume Gift Set,Beauty,Hyderabad,Amazon.in,3,2999,16,2519.16,1550,7557.48,2907.48
+D26-00113,25-10-2026,Diwali Week,P014,Sunglasses,Fashion,Chennai,Marketplace,2,1899,37,1196.37,830,2392.74,732.74
+D26-00114,18-10-2026,Pre-Diwali,P010,Decorative Lamp,Home,Pune,Amazon.in,3,1599,34,1055.34,740,3166.02,946.02
+D26-00115,07-10-2026,Pre-Diwali,P018,Perfume Gift Set,Beauty,Hyderabad,Marketplace,1,2999,16,2519.16,1550,2519.16,969.16
+D26-00116,07-10-2026,Pre-Diwali,P011,Running Shoes,Fashion,Pune,Amazon.in,1,3799,8,3495.08,2100,3495.08,1395.08
+D26-00117,03-11-2026,Post-Diwali,P015,Wrist Watch,Fashion,Delhi,Marketplace,2,2799,17,2323.17,1450,4646.34,1746.34
+D26-00118,05-11-2026,Post-Diwali,P012,Backpack,Fashion,Hyderabad,Amazon.in,3,2299,22,1793.22,1150,5379.66,1929.66
+D26-00119,05-10-2026,Pre-Diwali,P018,Perfume Gift Set,Beauty,Delhi,Marketplace,4,2999,35,1949.35,1550,7797.4,1597.4
+D26-00120,03-10-2026,Pre-Diwali,P006,Air Fryer,Home,Delhi,Amazon.in,4,8999,10,8099.1,5700,32396.4,9596.4
+D26-00121,30-10-2026,Post-Diwali,P018,Perfume Gift Set,Beauty,Jaipur,Amazon.in,3,2999,12,2639.12,1550,7917.36,3267.36
+D26-00122,30-10-2026,Post-Diwali,P002,Smart Watch,Electronics,Kolkata,Amazon.in,3,4999,28,3599.28,2900,10797.84,2097.84
+D26-00123,11-11-2026,Post-Diwali,P013,Cotton Kurta,Fashion,Kolkata,Amazon.in,3,1499,18,1229.18,680,3687.54,1647.54
+D26-00124,10-11-2026,Post-Diwali,P016,Skincare Gift Set,Beauty,Bengaluru,Marketplace,1,1599,29,1135.29,750,1135.29,385.29
+D26-00125,10-10-2026,Pre-Diwali,P016,Skincare Gift Set,Beauty,Kolkata,Marketplace,2,1599,36,1023.36,750,2046.72,546.72
+D26-00126,01-10-2026,Pre-Diwali,P003,Bluetooth Speaker,Electronics,Jaipur,Amazon.in,3,3299,12,2903.12,1800,8709.36,3309.36
+D26-00127,02-10-2026,Pre-Diwali,P014,Sunglasses,Fashion,Pune,Marketplace,4,1899,25,1424.25,830,5697,2377
+D26-00128,31-10-2026,Post-Diwali,P016,Skincare Gift Set,Beauty,Hyderabad,Amazon.in,1,1599,7,1487.07,750,1487.07,737.07
+D26-00129,11-11-2026,Post-Diwali,P011,Running Shoes,Fashion,Bengaluru,Amazon.in,2,3799,39,2317.39,2100,4634.78,434.78
+D26-00130,29-10-2026,Diwali Week,P014,Sunglasses,Fashion,Kolkata,Amazon.in,4,1899,22,1481.22,830,5924.88,2604.88
+D26-00131,02-11-2026,Post-Diwali,P012,Backpack,Fashion,Chennai,Amazon.in,4,2299,29,1632.29,1150,6529.16,1929.16
+D26-00132,13-11-2026,Post-Diwali,P020,Chocolate Hamper,Grocery,Delhi,Marketplace,3,999,35,649.35,580,1948.05,208.05
+D26-00133,03-11-2026,Post-Diwali,P014,Sunglasses,Fashion,Delhi,Amazon.in,3,1899,18,1557.18,830,4671.54,2181.54
+D26-00134,20-10-2026,Pre-Diwali,P010,Decorative Lamp,Home,Pune,Marketplace,1,1599,39,975.39,740,975.39,235.39
+D26-00135,08-10-2026,Pre-Diwali,P020,Chocolate Hamper,Grocery,Bengaluru,Marketplace,1,999,19,809.19,580,809.19,229.19
+D26-00136,04-10-2026,Pre-Diwali,P019,Dry Fruit Gift Box,Grocery,Hyderabad,Marketplace,1,1299,6,1221.06,820,1221.06,401.06
+D26-00137,13-11-2026,Post-Diwali,P005,LED Smart Bulb Set,Electronics,Pune,Marketplace,1,1299,30,909.3,620,909.3,289.3
+D26-00138,01-10-2026,Pre-Diwali,P012,Backpack,Fashion,Bengaluru,Marketplace,3,2299,9,2092.09,1150,6276.27,2826.27
+D26-00139,21-10-2026,Diwali Week,P014,Sunglasses,Fashion,Delhi,Marketplace,4,1899,34,1253.34,830,5013.36,1693.36
+D26-00140,08-10-2026,Pre-Diwali,P011,Running Shoes,Fashion,Kolkata,Amazon.in,1,3799,11,3381.11,2100,3381.11,1281.11
+D26-00141,09-11-2026,Post-Diwali,P015,Wrist Watch,Fashion,Mumbai,Amazon.in,4,2799,14,2407.14,1450,9628.56,3828.56
+D26-00142,23-10-2026,Diwali Week,P018,Perfume Gift Set,Beauty,Chennai,Amazon.in,3,2999,15,2549.15,1550,7647.45,2997.45
+D26-00143,03-10-2026,Pre-Diwali,P007,Mixer Grinder,Home,Kolkata,Amazon.in,3,5499,19,4454.19,3400,13362.57,3162.57
+D26-00144,07-11-2026,Post-Diwali,P009,Cookware Set,Home,Hyderabad,Amazon.in,4,3999,37,2519.37,2200,10077.48,1277.48
+D26-00145,14-10-2026,Pre-Diwali,P003,Bluetooth Speaker,Electronics,Chennai,Amazon.in,2,3299,39,2012.39,1800,4024.78,424.78
+D26-00146,16-10-2026,Pre-Diwali,P014,Sunglasses,Fashion,Delhi,Marketplace,1,1899,15,1614.15,830,1614.15,784.15
+D26-00147,13-11-2026,Post-Diwali,P013,Cotton Kurta,Fashion,Delhi,Marketplace,3,1499,24,1139.24,680,3417.72,1377.72
+D26-00148,03-11-2026,Post-Diwali,P006,Air Fryer,Home,Delhi,Marketplace,1,8999,19,7289.19,5700,7289.19,1589.19
+D26-00149,04-10-2026,Pre-Diwali,P007,Mixer Grinder,Home,Pune,Marketplace,2,5499,15,4674.15,3400,9348.3,2548.3
+D26-00150,08-11-2026,Post-Diwali,P010,Decorative Lamp,Home,Pune,Marketplace,4,1599,16,1343.16,740,5372.64,2412.64
+D26-00151,01-10-2026,Pre-Diwali,P005,LED Smart Bulb Set,Electronics,Kolkata,Amazon.in,3,1299,7,1208.07,620,3624.21,1764.21
+D26-00152,23-10-2026,Diwali Week,P016,Skincare Gift Set,Beauty,Hyderabad,Amazon.in,4,1599,16,1343.16,750,5372.64,2372.64
+D26-00153,10-10-2026,Pre-Diwali,P012,Backpack,Fashion,Chennai,Amazon.in,2,2299,34,1517.34,1150,3034.68,734.68
+D26-00154,17-10-2026,Pre-Diwali,P001,Wireless Earbuds,Electronics,Jaipur,Amazon.in,2,2499,16,2099.16,1350,4198.32,1498.32
+D26-00155,22-10-2026,Diwali Week,P020,Chocolate Hamper,Grocery,Jaipur,Amazon.in,3,999,17,829.17,580,2487.51,747.51
+D26-00156,13-11-2026,Post-Diwali,P013,Cotton Kurta,Fashion,Pune,Marketplace,4,1499,39,914.39,680,3657.56,937.56
+D26-00157,14-11-2026,Post-Diwali,P013,Cotton Kurta,Fashion,Jaipur,Amazon.in,1,1499,17,1244.17,680,1244.17,564.17
+D26-00158,08-10-2026,Pre-Diwali,P006,Air Fryer,Home,Chennai,Amazon.in,4,8999,6,8459.06,5700,33836.24,11036.24
+D26-00159,14-11-2026,Post-Diwali,P020,Chocolate Hamper,Grocery,Kolkata,Amazon.in,1,999,16,839.16,580,839.16,259.16
+D26-00160,02-10-2026,Pre-Diwali,P005,LED Smart Bulb Set,Electronics,Mumbai,Amazon.in,4,1299,27,948.27,620,3793.08,1313.08
+D26-00161,13-11-2026,Post-Diwali,P002,Smart Watch,Electronics,Jaipur,Marketplace,2,4999,7,4649.07,2900,9298.14,3498.14
+D26-00162,13-10-2026,Pre-Diwali,P004,Power Bank,Electronics,Chennai,Amazon.in,3,1799,30,1259.3,950,3777.9,927.9
+D26-00163,07-10-2026,Pre-Diwali,P020,Chocolate Hamper,Grocery,Mumbai,Amazon.in,1,999,21,789.21,580,789.21,209.21
+D26-00164,03-10-2026,Pre-Diwali,P020,Chocolate Hamper,Grocery,Chennai,Marketplace,4,999,8,919.08,580,3676.32,1356.32
+D26-00165,29-10-2026,Diwali Week,P001,Wireless Earbuds,Electronics,Pune,Marketplace,3,2499,38,1549.38,1350,4648.14,598.14
+D26-00166,05-10-2026,Pre-Diwali,P019,Dry Fruit Gift Box,Grocery,Jaipur,Marketplace,3,1299,12,1143.12,820,3429.36,969.36
+D26-00167,18-10-2026,Pre-Diwali,P002,Smart Watch,Electronics,Mumbai,Marketplace,2,4999,38,3099.38,2900,6198.76,398.76
+D26-00168,14-11-2026,Post-Diwali,P012,Backpack,Fashion,Mumbai,Marketplace,3,2299,28,1655.28,1150,4965.84,1515.84
+D26-00169,21-10-2026,Diwali Week,P018,Perfume Gift Set,Beauty,Mumbai,Amazon.in,1,2999,32,2039.32,1550,2039.32,489.32
+D26-00170,20-10-2026,Pre-Diwali,P003,Bluetooth Speaker,Electronics,Jaipur,Amazon.in,1,3299,33,2210.33,1800,2210.33,410.33
+D26-00171,06-11-2026,Post-Diwali,P015,Wrist Watch,Fashion,Bengaluru,Marketplace,3,2799,36,1791.36,1450,5374.08,1024.08
+D26-00172,06-11-2026,Post-Diwali,P003,Bluetooth Speaker,Electronics,Mumbai,Marketplace,4,3299,10,2969.1,1800,11876.4,4676.4
+D26-00173,08-10-2026,Pre-Diwali,P005,LED Smart Bulb Set,Electronics,Hyderabad,Marketplace,3,1299,33,870.33,620,2610.99,750.99
+D26-00174,07-10-2026,Pre-Diwali,P020,Chocolate Hamper,Grocery,Pune,Marketplace,1,999,27,729.27,580,729.27,149.27
+D26-00175,01-10-2026,Pre-Diwali,P003,Bluetooth Speaker,Electronics,Jaipur,Marketplace,2,3299,24,2507.24,1800,5014.48,1414.48
+D26-00176,30-10-2026,Post-Diwali,P017,Hair Dryer,Beauty,Pune,Amazon.in,3,2499,17,2074.17,1300,6222.51,2322.51
+D26-00177,01-11-2026,Post-Diwali,P001,Wireless Earbuds,Electronics,Jaipur,Amazon.in,4,2499,17,2074.17,1350,8296.68,2896.68
+D26-00178,14-11-2026,Post-Diwali,P014,Sunglasses,Fashion,Delhi,Amazon.in,1,1899,6,1785.06,830,1785.06,955.06
+D26-00179,14-11-2026,Post-Diwali,P009,Cookware Set,Home,Hyderabad,Marketplace,4,3999,24,3039.24,2200,12156.96,3356.96
+D26-00180,10-10-2026,Pre-Diwali,P014,Sunglasses,Fashion,Pune,Marketplace,3,1899,33,1272.33,830,3816.99,1326.99
+D26-00181,13-10-2026,Pre-Diwali,P009,Cookware Set,Home,Jaipur,Amazon.in,1,3999,38,2479.38,2200,2479.38,279.38
+D26-00182,15-10-2026,Pre-Diwali,P010,Decorative Lamp,Home,Delhi,Marketplace,3,1599,38,991.38,740,2974.14,754.14
+D26-00183,23-10-2026,Diwali Week,P010,Decorative Lamp,Home,Hyderabad,Marketplace,2,1599,9,1455.09,740,2910.18,1430.18
+D26-00184,04-10-2026,Pre-Diwali,P013,Cotton Kurta,Fashion,Chennai,Marketplace,1,1499,13,1304.13,680,1304.13,624.13
+D26-00185,18-10-2026,Pre-Diwali,P007,Mixer Grinder,Home,Jaipur,Amazon.in,4,5499,13,4784.13,3400,19136.52,5536.52
+D26-00186,21-10-2026,Diwali Week,P014,Sunglasses,Fashion,Bengaluru,Marketplace,4,1899,7,1766.07,830,7064.28,3744.28
+D26-00187,30-10-2026,Post-Diwali,P004,Power Bank,Electronics,Chennai,Marketplace,2,1799,9,1637.09,950,3274.18,1374.18
+D26-00188,06-11-2026,Post-Diwali,P011,Running Shoes,Fashion,Chennai,Amazon.in,1,3799,35,2469.35,2100,2469.35,369.35
+D26-00189,06-10-2026,Pre-Diwali,P017,Hair Dryer,Beauty,Chennai,Marketplace,1,2499,8,2299.08,1300,2299.08,999.08
+D26-00190,12-11-2026,Post-Diwali,P013,Cotton Kurta,Fashion,Jaipur,Amazon.in,2,1499,23,1154.23,680,2308.46,948.46
+D26-00191,07-11-2026,Post-Diwali,P004,Power Bank,Electronics,Pune,Amazon.in,1,1799,26,1331.26,950,1331.26,381.26
+D26-00192,15-10-2026,Pre-Diwali,P014,Sunglasses,Fashion,Bengaluru,Amazon.in,1,1899,5,1804.05,830,1804.05,974.05
+D26-00193,28-10-2026,Diwali Week,P012,Backpack,Fashion,Chennai,Amazon.in,4,2299,27,1678.27,1150,6713.08,2113.08
+D26-00194,04-10-2026,Pre-Diwali,P003,Bluetooth Speaker,Electronics,Chennai,Marketplace,3,3299,16,2771.16,1800,8313.48,2913.48
+D26-00195,25-10-2026,Diwali Week,P020,Chocolate Hamper,Grocery,Kolkata,Marketplace,3,999,13,869.13,580,2607.39,867.39
+D26-00196,14-11-2026,Post-Diwali,P006,Air Fryer,Home,Hyderabad,Amazon.in,2,8999,19,7289.19,5700,14578.38,3178.38
+D26-00197,25-10-2026,Diwali Week,P002,Smart Watch,Electronics,Delhi,Marketplace,3,4999,20,3999.2,2900,11997.6,3297.6
+D26-00198,14-11-2026,Post-Diwali,P003,Bluetooth Speaker,Electronics,Chennai,Marketplace,3,3299,36,2111.36,1800,6334.08,934.08
+D26-00199,01-10-2026,Pre-Diwali,P019,Dry Fruit Gift Box,Grocery,Kolkata,Amazon.in,1,1299,34,857.34,820,857.34,37.34
+D26-00200,04-11-2026,Post-Diwali,P017,Hair Dryer,Beauty,Kolkata,Amazon.in,1,2499,23,1924.23,1300,1924.23,624.23
+D26-00201,04-10-2026,Pre-Diwali,P002,Smart Watch,Electronics,Mumbai,Amazon.in,1,4999,12,4399.12,2900,4399.12,1499.12
+D26-00202,08-10-2026,Pre-Diwali,P015,Wrist Watch,Fashion,Chennai,Marketplace,3,2799,21,2211.21,1450,6633.63,2283.63
+D26-00203,05-11-2026,Post-Diwali,P002,Smart Watch,Electronics,Jaipur,Amazon.in,3,4999,17,4149.17,2900,12447.51,3747.51
+D26-00204,27-10-2026,Diwali Week,P019,Dry Fruit Gift Box,Grocery,Pune,Marketplace,4,1299,40,779.4,820,3117.6,-162.4
+D26-00205,12-11-2026,Post-Diwali,P003,Bluetooth Speaker,Electronics,Delhi,Amazon.in,2,3299,21,2606.21,1800,5212.42,1612.42
+D26-00206,15-10-2026,Pre-Diwali,P019,Dry Fruit Gift Box,Grocery,Hyderabad,Amazon.in,2,1299,35,844.35,820,1688.7,48.7
+D26-00207,07-11-2026,Post-Diwali,P007,Mixer Grinder,Home,Bengaluru,Amazon.in,1,5499,21,4344.21,3400,4344.21,944.21
+D26-00208,13-11-2026,Post-Diwali,P004,Power Bank,Electronics,Jaipur,Amazon.in,3,1799,22,1403.22,950,4209.66,1359.66
+D26-00209,21-10-2026,Diwali Week,P003,Bluetooth Speaker,Electronics,Kolkata,Marketplace,1,3299,8,3035.08,1800,3035.08,1235.08
+D26-00210,21-10-2026,Diwali Week,P003,Bluetooth Speaker,Electronics,Jaipur,Marketplace,2,3299,22,2573.22,1800,5146.44,1546.44
+D26-00211,02-10-2026,Pre-Diwali,P012,Backpack,Fashion,Delhi,Amazon.in,4,2299,18,1885.18,1150,7540.72,2940.72
+D26-00212,14-10-2026,Pre-Diwali,P020,Chocolate Hamper,Grocery,Hyderabad,Marketplace,3,999,10,899.1,580,2697.3,957.3
+D26-00213,13-11-2026,Post-Diwali,P012,Backpack,Fashion,Hyderabad,Marketplace,1,2299,30,1609.3,1150,1609.3,459.3
+D26-00214,14-10-2026,Pre-Diwali,P006,Air Fryer,Home,Kolkata,Amazon.in,1,8999,15,7649.15,5700,7649.15,1949.15
+D26-00215,12-11-2026,Post-Diwali,P007,Mixer Grinder,Home,Delhi,Marketplace,2,5499,20,4399.2,3400,8798.4,1998.4
+D26-00216,31-10-2026,Post-Diwali,P012,Backpack,Fashion,Bengaluru,Marketplace,4,2299,8,2115.08,1150,8460.32,3860.32
+D26-00217,11-10-2026,Pre-Diwali,P013,Cotton Kurta,Fashion,Jaipur,Amazon.in,1,1499,23,1154.23,680,1154.23,474.23
+D26-00218,09-10-2026,Pre-Diwali,P001,Wireless Earbuds,Electronics,Kolkata,Marketplace,4,2499,24,1899.24,1350,7596.96,2196.96
+D26-00219,27-10-2026,Diwali Week,P004,Power Bank,Electronics,Delhi,Marketplace,1,1799,8,1655.08,950,1655.08,705.08
+D26-00220,09-10-2026,Pre-Diwali,P010,Decorative Lamp,Home,Pune,Marketplace,2,1599,39,975.39,740,1950.78,470.78
+D26-00221,09-10-2026,Pre-Diwali,P017,Hair Dryer,Beauty,Pune,Marketplace,1,2499,23,1924.23,1300,1924.23,624.23
+D26-00222,09-10-2026,Pre-Diwali,P017,Hair Dryer,Beauty,Bengaluru,Amazon.in,4,2499,34,1649.34,1300,6597.36,1397.36
+D26-00223,04-10-2026,Pre-Diwali,P008,Bedsheet Set,Home,Bengaluru,Amazon.in,1,1999,11,1779.11,920,1779.11,859.11
+D26-00224,01-11-2026,Post-Diwali,P013,Cotton Kurta,Fashion,Kolkata,Amazon.in,1,1499,27,1094.27,680,1094.27,414.27
+D26-00225,13-10-2026,Pre-Diwali,P018,Perfume Gift Set,Beauty,Delhi,Marketplace,4,2999,29,2129.29,1550,8517.16,2317.16
+D26-00226,04-11-2026,Post-Diwali,P012,Backpack,Fashion,Hyderabad,Marketplace,2,2299,21,1816.21,1150,3632.42,1332.42
+D26-00227,11-11-2026,Post-Diwali,P015,Wrist Watch,Fashion,Bengaluru,Marketplace,4,2799,8,2575.08,1450,10300.32,4500.32
+D26-00228,07-11-2026,Post-Diwali,P019,Dry Fruit Gift Box,Grocery,Delhi,Amazon.in,4,1299,35,844.35,820,3377.4,97.4
+D26-00229,12-11-2026,Post-Diwali,P013,Cotton Kurta,Fashion,Chennai,Marketplace,2,1499,5,1424.05,680,2848.1,1488.1
+D26-00230,22-10-2026,Diwali Week,P003,Bluetooth Speaker,Electronics,Bengaluru,Marketplace,1,3299,14,2837.14,1800,2837.14,1037.14
+D26-00231,07-11-2026,Post-Diwali,P019,Dry Fruit Gift Box,Grocery,Pune,Marketplace,3,1299,31,896.31,820,2688.93,228.93
+D26-00232,11-10-2026,Pre-Diwali,P017,Hair Dryer,Beauty,Bengaluru,Amazon.in,3,2499,28,1799.28,1300,5397.84,1497.84
+D26-00233,01-11-2026,Post-Diwali,P019,Dry Fruit Gift Box,Grocery,Kolkata,Marketplace,3,1299,33,870.33,820,2610.99,150.99
+D26-00234,26-10-2026,Diwali Week,P005,LED Smart Bulb Set,Electronics,Pune,Marketplace,1,1299,33,870.33,620,870.33,250.33
+D26-00235,10-11-2026,Post-Diwali,P020,Chocolate Hamper,Grocery,Pune,Amazon.in,3,999,37,629.37,580,1888.11,148.11
+D26-00236,16-10-2026,Pre-Diwali,P014,Sunglasses,Fashion,Mumbai,Marketplace,1,1899,24,1443.24,830,1443.24,613.24
+D26-00237,13-11-2026,Post-Diwali,P005,LED Smart Bulb Set,Electronics,Mumbai,Marketplace,1,1299,17,1078.17,620,1078.17,458.17
+D26-00238,28-10-2026,Diwali Week,P010,Decorative Lamp,Home,Mumbai,Marketplace,2,1599,6,1503.06,740,3006.12,1526.12
+D26-00239,21-10-2026,Diwali Week,P016,Skincare Gift Set,Beauty,Bengaluru,Amazon.in,2,1599,16,1343.16,750,2686.32,1186.32
+D26-00240,12-11-2026,Post-Diwali,P020,Chocolate Hamper,Grocery,Kolkata,Amazon.in,2,999,37,629.37,580,1258.74,98.74
+D26-00241,17-10-2026,Pre-Diwali,P020,Chocolate Hamper,Grocery,Chennai,Amazon.in,4,999,40,599.4,580,2397.6,77.6
+D26-00242,14-11-2026,Post-Diwali,P018,Perfume Gift Set,Beauty,Hyderabad,Marketplace,3,2999,31,2069.31,1550,6207.93,1557.93
+D26-00243,11-10-2026,Pre-Diwali,P010,Decorative Lamp,Home,Mumbai,Amazon.in,1,1599,40,959.4,740,959.4,219.4
+D26-00244,05-10-2026,Pre-Diwali,P016,Skincare Gift Set,Beauty,Delhi,Amazon.in,2,1599,26,1183.26,750,2366.52,866.52
+D26-00245,13-10-2026,Pre-Diwali,P019,Dry Fruit Gift Box,Grocery,Hyderabad,Marketplace,1,1299,39,792.39,820,792.39,-27.61
+D26-00246,15-10-2026,Pre-Diwali,P018,Perfume Gift Set,Beauty,Mumbai,Amazon.in,2,2999,12,2639.12,1550,5278.24,2178.24
+D26-00247,10-11-2026,Post-Diwali,P012,Backpack,Fashion,Kolkata,Amazon.in,1,2299,35,1494.35,1150,1494.35,344.35
+D26-00248,27-10-2026,Diwali Week,P002,Smart Watch,Electronics,Jaipur,Amazon.in,4,4999,38,3099.38,2900,12397.52,797.52
+D26-00249,31-10-2026,Post-Diwali,P006,Air Fryer,Home,Delhi,Marketplace,3,8999,15,7649.15,5700,22947.45,5847.45
+D26-00250,03-11-2026,Post-Diwali,P009,Cookware Set,Home,Hyderabad,Amazon.in,4,3999,32,2719.32,2200,10877.28,2077.28
+D26-00251,04-10-2026,Pre-Diwali,P004,Power Bank,Electronics,Mumbai,Amazon.in,3,1799,12,1583.12,950,4749.36,1899.36
+D26-00252,08-11-2026,Post-Diwali,P011,Running Shoes,Fashion,Pune,Marketplace,1,3799,13,3305.13,2100,3305.13,1205.13
+D26-00253,07-10-2026,Pre-Diwali,P008,Bedsheet Set,Home,Mumbai,Amazon.in,4,1999,26,1479.26,920,5917.04,2237.04
+D26-00254,12-11-2026,Post-Diwali,P006,Air Fryer,Home,Mumbai,Marketplace,2,8999,13,7829.13,5700,15658.26,4258.26
+D26-00255,31-10-2026,Post-Diwali,P008,Bedsheet Set,Home,Jaipur,Amazon.in,1,1999,7,1859.07,920,1859.07,939.07
+D26-00256,25-10-2026,Diwali Week,P008,Bedsheet Set,Home,Pune,Amazon.in,4,1999,29,1419.29,920,5677.16,1997.16
+D26-00257,02-11-2026,Post-Diwali,P006,Air Fryer,Home,Mumbai,Marketplace,1,8999,29,6389.29,5700,6389.29,689.29
+D26-00258,15-10-2026,Pre-Diwali,P016,Skincare Gift Set,Beauty,Bengaluru,Amazon.in,2,1599,7,1487.07,750,2974.14,1474.14
+D26-00259,18-10-2026,Pre-Diwali,P019,Dry Fruit Gift Box,Grocery,Hyderabad,Amazon.in,2,1299,35,844.35,820,1688.7,48.7
+D26-00260,24-10-2026,Diwali Week,P002,Smart Watch,Electronics,Pune,Marketplace,1,4999,25,3749.25,2900,3749.25,849.25
+D26-00261,04-10-2026,Pre-Diwali,P003,Bluetooth Speaker,Electronics,Hyderabad,Marketplace,4,3299,13,2870.13,1800,11480.52,4280.52
+D26-00262,20-10-2026,Pre-Diwali,P006,Air Fryer,Home,Jaipur,Marketplace,4,8999,10,8099.1,5700,32396.4,9596.4
+D26-00263,18-10-2026,Pre-Diwali,P014,Sunglasses,Fashion,Delhi,Marketplace,3,1899,16,1595.16,830,4785.48,2295.48
+D26-00264,04-11-2026,Post-Diwali,P013,Cotton Kurta,Fashion,Kolkata,Marketplace,1,1499,37,944.37,680,944.37,264.37
+D26-00265,29-10-2026,Diwali Week,P007,Mixer Grinder,Home,Hyderabad,Amazon.in,1,5499,19,4454.19,3400,4454.19,1054.19
+D26-00266,06-11-2026,Post-Diwali,P012,Backpack,Fashion,Chennai,Amazon.in,3,2299,15,1954.15,1150,5862.45,2412.45
+D26-00267,12-10-2026,Pre-Diwali,P013,Cotton Kurta,Fashion,Mumbai,Amazon.in,3,1499,39,914.39,680,2743.17,703.17
+D26-00268,08-11-2026,Post-Diwali,P004,Power Bank,Electronics,Pune,Marketplace,2,1799,19,1457.19,950,2914.38,1014.38
+D26-00269,14-11-2026,Post-Diwali,P016,Skincare Gift Set,Beauty,Jaipur,Marketplace,3,1599,8,1471.08,750,4413.24,2163.24
+D26-00270,28-10-2026,Diwali Week,P020,Chocolate Hamper,Grocery,Kolkata,Amazon.in,2,999,7,929.07,580,1858.14,698.14
+D26-00271,01-11-2026,Post-Diwali,P009,Cookware Set,Home,Kolkata,Amazon.in,3,3999,18,3279.18,2200,9837.54,3237.54
+D26-00272,06-10-2026,Pre-Diwali,P015,Wrist Watch,Fashion,Pune,Amazon.in,4,2799,5,2659.05,1450,10636.2,4836.2
+D26-00273,20-10-2026,Pre-Diwali,P013,Cotton Kurta,Fashion,Chennai,Amazon.in,2,1499,39,914.39,680,1828.78,468.78
+D26-00274,25-10-2026,Diwali Week,P005,LED Smart Bulb Set,Electronics,Kolkata,Marketplace,2,1299,16,1091.16,620,2182.32,942.32
+D26-00275,26-10-2026,Diwali Week,P008,Bedsheet Set,Home,Kolkata,Amazon.in,3,1999,34,1319.34,920,3958.02,1198.02
+D26-00276,22-10-2026,Diwali Week,P003,Bluetooth Speaker,Electronics,Kolkata,Amazon.in,1,3299,39,2012.39,1800,2012.39,212.39
+D26-00277,13-10-2026,Pre-Diwali,P003,Bluetooth Speaker,Electronics,Delhi,Marketplace,2,3299,27,2408.27,1800,4816.54,1216.54
+D26-00278,31-10-2026,Post-Diwali,P018,Perfume Gift Set,Beauty,Bengaluru,Marketplace,3,2999,39,1829.39,1550,5488.17,838.17
+D26-00279,04-11-2026,Post-Diwali,P015,Wrist Watch,Fashion,Hyderabad,Amazon.in,3,2799,33,1875.33,1450,5625.99,1275.99
+D26-00280,28-10-2026,Diwali Week,P004,Power Bank,Electronics,Bengaluru,Amazon.in,4,1799,32,1223.32,950,4893.28,1093.28
+D26-00281,06-11-2026,Post-Diwali,P007,Mixer Grinder,Home,Jaipur,Marketplace,1,5499,40,3299.4,3400,3299.4,-100.6
+D26-00282,26-10-2026,Diwali Week,P010,Decorative Lamp,Home,Bengaluru,Amazon.in,1,1599,23,1231.23,740,1231.23,491.23
+D26-00283,22-10-2026,Diwali Week,P014,Sunglasses,Fashion,Pune,Amazon.in,4,1899,16,1595.16,830,6380.64,3060.64
+D26-00284,12-10-2026,Pre-Diwali,P017,Hair Dryer,Beauty,Kolkata,Amazon.in,3,2499,13,2174.13,1300,6522.39,2622.39
+D26-00285,30-10-2026,Post-Diwali,P009,Cookware Set,Home,Bengaluru,Marketplace,2,3999,27,2919.27,2200,5838.54,1438.54
+D26-00286,18-10-2026,Pre-Diwali,P013,Cotton Kurta,Fashion,Jaipur,Marketplace,3,1499,9,1364.09,680,4092.27,2052.27
+D26-00287,11-10-2026,Pre-Diwali,P017,Hair Dryer,Beauty,Delhi,Amazon.in,1,2499,28,1799.28,1300,1799.28,499.28
+D26-00288,30-10-2026,Post-Diwali,P001,Wireless Earbuds,Electronics,Mumbai,Amazon.in,1,2499,11,2224.11,1350,2224.11,874.11
+D26-00289,25-10-2026,Diwali Week,P020,Chocolate Hamper,Grocery,Kolkata,Marketplace,3,999,12,879.12,580,2637.36,897.36
+D26-00290,30-10-2026,Post-Diwali,P001,Wireless Earbuds,Electronics,Hyderabad,Marketplace,1,2499,15,2124.15,1350,2124.15,774.15
+D26-00291,25-10-2026,Diwali Week,P002,Smart Watch,Electronics,Jaipur,Marketplace,4,4999,35,3249.35,2900,12997.4,1397.4
+D26-00292,16-10-2026,Pre-Diwali,P001,Wireless Earbuds,Electronics,Pune,Marketplace,2,2499,40,1499.4,1350,2998.8,298.8
+D26-00293,02-10-2026,Pre-Diwali,P012,Backpack,Fashion,Delhi,Marketplace,3,2299,21,1816.21,1150,5448.63,1998.63
+D26-00294,08-10-2026,Pre-Diwali,P004,Power Bank,Electronics,Pune,Marketplace,4,1799,14,1547.14,950,6188.56,2388.56
+D26-00295,22-10-2026,Diwali Week,P016,Skincare Gift Set,Beauty,Hyderabad,Marketplace,1,1599,30,1119.3,750,1119.3,369.3
+D26-00296,02-10-2026,Pre-Diwali,P014,Sunglasses,Fashion,Delhi,Amazon.in,1,1899,28,1367.28,830,1367.28,537.28
+D26-00297,16-10-2026,Pre-Diwali,P008,Bedsheet Set,Home,Pune,Marketplace,3,1999,13,1739.13,920,5217.39,2457.39
+D26-00298,26-10-2026,Diwali Week,P010,Decorative Lamp,Home,Jaipur,Amazon.in,3,1599,6,1503.06,740,4509.18,2289.18
+D26-00299,29-10-2026,Diwali Week,P004,Power Bank,Electronics,Hyderabad,Marketplace,4,1799,35,1169.35,950,4677.4,877.4
+D26-00300,10-10-2026,Pre-Diwali,P008,Bedsheet Set,Home,Kolkata,Marketplace,4,1999,10,1799.1,920,7196.4,3516.4
+D26-00301,06-10-2026,Pre-Diwali,P003,Bluetooth Speaker,Electronics,Pune,Amazon.in,3,3299,36,2111.36,1800,6334.08,934.08
+D26-00302,03-10-2026,Pre-Diwali,P020,Chocolate Hamper,Grocery,Pune,Marketplace,3,999,20,799.2,580,2397.6,657.6
+D26-00303,21-10-2026,Diwali Week,P009,Cookware Set,Home,Pune,Amazon.in,4,3999,9,3639.09,2200,14556.36,5756.36
+D26-00304,23-10-2026,Diwali Week,P012,Backpack,Fashion,Bengaluru,Amazon.in,1,2299,9,2092.09,1150,2092.09,942.09
+D26-00305,02-10-2026,Pre-Diwali,P001,Wireless Earbuds,Electronics,Pune,Amazon.in,1,2499,30,1749.3,1350,1749.3,399.3
+D26-00306,19-10-2026,Pre-Diwali,P006,Air Fryer,Home,Delhi,Amazon.in,1,8999,31,6209.31,5700,6209.31,509.31
+D26-00307,28-10-2026,Diwali Week,P019,Dry Fruit Gift Box,Grocery,Chennai,Amazon.in,2,1299,40,779.4,820,1558.8,-81.2
+D26-00308,06-10-2026,Pre-Diwali,P016,Skincare Gift Set,Beauty,Delhi,Marketplace,1,1599,14,1375.14,750,1375.14,625.14
+D26-00309,05-10-2026,Pre-Diwali,P011,Running Shoes,Fashion,Pune,Marketplace,4,3799,12,3343.12,2100,13372.48,4972.48
+D26-00310,21-10-2026,Diwali Week,P015,Wrist Watch,Fashion,Mumbai,Marketplace,3,2799,14,2407.14,1450,7221.42,2871.42
+D26-00311,10-10-2026,Pre-Diwali,P015,Wrist Watch,Fashion,Kolkata,Marketplace,4,2799,36,1791.36,1450,7165.44,1365.44
+D26-00312,01-10-2026,Pre-Diwali,P020,Chocolate Hamper,Grocery,Chennai,Amazon.in,1,999,26,739.26,580,739.26,159.26
+D26-00313,01-11-2026,Post-Diwali,P002,Smart Watch,Electronics,Kolkata,Amazon.in,4,4999,26,3699.26,2900,14797.04,3197.04
+D26-00314,03-10-2026,Pre-Diwali,P004,Power Bank,Electronics,Chennai,Marketplace,4,1799,35,1169.35,950,4677.4,877.4
+D26-00315,09-10-2026,Pre-Diwali,P001,Wireless Earbuds,Electronics,Pune,Marketplace,1,2499,23,1924.23,1350,1924.23,574.23
+D26-00316,18-10-2026,Pre-Diwali,P018,Perfume Gift Set,Beauty,Kolkata,Marketplace,2,2999,14,2579.14,1550,5158.28,2058.28
+D26-00317,03-11-2026,Post-Diwali,P012,Backpack,Fashion,Delhi,Amazon.in,3,2299,16,1931.16,1150,5793.48,2343.48
+D26-00318,07-11-2026,Post-Diwali,P001,Wireless Earbuds,Electronics,Mumbai,Marketplace,2,2499,19,2024.19,1350,4048.38,1348.38
+D26-00319,05-10-2026,Pre-Diwali,P020,Chocolate Hamper,Grocery,Bengaluru,Amazon.in,1,999,36,639.36,580,639.36,59.36
+D26-00320,06-10-2026,Pre-Diwali,P015,Wrist Watch,Fashion,Delhi,Marketplace,3,2799,20,2239.2,1450,6717.6,2367.6
+D26-00321,14-11-2026,Post-Diwali,P001,Wireless Earbuds,Electronics,Delhi,Amazon.in,4,2499,16,2099.16,1350,8396.64,2996.64
+D26-00322,12-11-2026,Post-Diwali,P002,Smart Watch,Electronics,Delhi,Amazon.in,3,4999,9,4549.09,2900,13647.27,4947.27
+D26-00323,31-10-2026,Post-Diwali,P017,Hair Dryer,Beauty,Mumbai,Amazon.in,2,2499,33,1674.33,1300,3348.66,748.66
+D26-00324,09-11-2026,Post-Diwali,P008,Bedsheet Set,Home,Delhi,Marketplace,1,1999,9,1819.09,920,1819.09,899.09
+D26-00325,07-10-2026,Pre-Diwali,P015,Wrist Watch,Fashion,Pune,Amazon.in,4,2799,11,2491.11,1450,9964.44,4164.44
+D26-00326,31-10-2026,Post-Diwali,P005,LED Smart Bulb Set,Electronics,Pune,Amazon.in,2,1299,18,1065.18,620,2130.36,890.36
+D26-00327,17-10-2026,Pre-Diwali,P018,Perfume Gift Set,Beauty,Pune,Amazon.in,1,2999,17,2489.17,1550,2489.17,939.17
+D26-00328,30-10-2026,Post-Diwali,P011,Running Shoes,Fashion,Bengaluru,Marketplace,1,3799,36,2431.36,2100,2431.36,331.36
+D26-00329,18-10-2026,Pre-Diwali,P007,Mixer Grinder,Home,Pune,Marketplace,1,5499,29,3904.29,3400,3904.29,504.29
+D26-00330,30-10-2026,Post-Diwali,P011,Running Shoes,Fashion,Bengaluru,Amazon.in,1,3799,25,2849.25,2100,2849.25,749.25
+D26-00331,13-11-2026,Post-Diwali,P017,Hair Dryer,Beauty,Pune,Marketplace,4,2499,5,2374.05,1300,9496.2,4296.2
+D26-00332,22-10-2026,Diwali Week,P017,Hair Dryer,Beauty,Kolkata,Marketplace,1,2499,29,1774.29,1300,1774.29,474.29
+D26-00333,03-11-2026,Post-Diwali,P014,Sunglasses,Fashion,Bengaluru,Amazon.in,4,1899,22,1481.22,830,5924.88,2604.88
+D26-00334,15-10-2026,Pre-Diwali,P016,Skincare Gift Set,Beauty,Kolkata,Marketplace,1,1599,22,1247.22,750,1247.22,497.22
+D26-00335,19-10-2026,Pre-Diwali,P010,Decorative Lamp,Home,Delhi,Marketplace,4,1599,29,1135.29,740,4541.16,1581.16
+D26-00336,12-11-2026,Post-Diwali,P015,Wrist Watch,Fashion,Chennai,Marketplace,1,2799,33,1875.33,1450,1875.33,425.33
+D26-00337,09-10-2026,Pre-Diwali,P007,Mixer Grinder,Home,Kolkata,Amazon.in,3,5499,16,4619.16,3400,13857.48,3657.48
+D26-00338,02-11-2026,Post-Diwali,P004,Power Bank,Electronics,Pune,Marketplace,4,1799,14,1547.14,950,6188.56,2388.56
+D26-00339,18-10-2026,Pre-Diwali,P010,Decorative Lamp,Home,Jaipur,Amazon.in,4,1599,33,1071.33,740,4285.32,1325.32
+D26-00340,21-10-2026,Diwali Week,P019,Dry Fruit Gift Box,Grocery,Hyderabad,Marketplace,3,1299,10,1169.1,820,3507.3,1047.3
+D26-00341,05-10-2026,Pre-Diwali,P001,Wireless Earbuds,Electronics,Pune,Marketplace,2,2499,40,1499.4,1350,2998.8,298.8
+D26-00342,02-11-2026,Post-Diwali,P004,Power Bank,Electronics,Hyderabad,Marketplace,3,1799,21,1421.21,950,4263.63,1413.63
+D26-00343,17-10-2026,Pre-Diwali,P018,Perfume Gift Set,Beauty,Mumbai,Marketplace,3,2999,14,2579.14,1550,7737.42,3087.42
+D26-00344,11-11-2026,Post-Diwali,P007,Mixer Grinder,Home,Jaipur,Amazon.in,4,5499,9,5004.09,3400,20016.36,6416.36
+D26-00345,29-10-2026,Diwali Week,P017,Hair Dryer,Beauty,Mumbai,Amazon.in,2,2499,16,2099.16,1300,4198.32,1598.32
+D26-00346,20-10-2026,Pre-Diwali,P013,Cotton Kurta,Fashion,Delhi,Amazon.in,4,1499,8,1379.08,680,5516.32,2796.32
+D26-00347,30-10-2026,Post-Diwali,P003,Bluetooth Speaker,Electronics,Chennai,Marketplace,1,3299,9,3002.09,1800,3002.09,1202.09
+D26-00348,14-11-2026,Post-Diwali,P006,Air Fryer,Home,Chennai,Amazon.in,4,8999,18,7379.18,5700,29516.72,6716.72
+D26-00349,09-10-2026,Pre-Diwali,P019,Dry Fruit Gift Box,Grocery,Delhi,Marketplace,3,1299,19,1052.19,820,3156.57,696.57
+D26-00350,28-10-2026,Diwali Week,P016,Skincare Gift Set,Beauty,Bengaluru,Amazon.in,1,1599,23,1231.23,750,1231.23,481.23
+D26-00351,21-10-2026,Diwali Week,P006,Air Fryer,Home,Mumbai,Marketplace,3,8999,30,6299.3,5700,18897.9,1797.9
+D26-00352,09-11-2026,Post-Diwali,P014,Sunglasses,Fashion,Bengaluru,Amazon.in,2,1899,20,1519.2,830,3038.4,1378.4
+D26-00353,08-10-2026,Pre-Diwali,P017,Hair Dryer,Beauty,Pune,Amazon.in,3,2499,11,2224.11,1300,6672.33,2772.33
+D26-00354,01-10-2026,Pre-Diwali,P001,Wireless Earbuds,Electronics,Pune,Marketplace,4,2499,35,1624.35,1350,6497.4,1097.4
+D26-00355,17-10-2026,Pre-Diwali,P013,Cotton Kurta,Fashion,Pune,Amazon.in,2,1499,31,1034.31,680,2068.62,708.62
+D26-00356,04-11-2026,Post-Diwali,P018,Perfume Gift Set,Beauty,Bengaluru,Amazon.in,3,2999,33,2009.33,1550,6027.99,1377.99
+D26-00357,08-11-2026,Post-Diwali,P006,Air Fryer,Home,Bengaluru,Amazon.in,4,8999,29,6389.29,5700,25557.16,2757.16
+D26-00358,17-10-2026,Pre-Diwali,P018,Perfume Gift Set,Beauty,Hyderabad,Amazon.in,1,2999,15,2549.15,1550,2549.15,999.15
+D26-00359,16-10-2026,Pre-Diwali,P011,Running Shoes,Fashion,Chennai,Amazon.in,3,3799,20,3039.2,2100,9117.6,2817.6
+D26-00360,10-10-2026,Pre-Diwali,P011,Running Shoes,Fashion,Kolkata,Marketplace,2,3799,34,2507.34,2100,5014.68,814.68
+D26-00361,15-10-2026,Pre-Diwali,P016,Skincare Gift Set,Beauty,Mumbai,Marketplace,2,1599,32,1087.32,750,2174.64,674.64
+D26-00362,08-10-2026,Pre-Diwali,P005,LED Smart Bulb Set,Electronics,Jaipur,Marketplace,1,1299,15,1104.15,620,1104.15,484.15
+D26-00363,05-11-2026,Post-Diwali,P010,Decorative Lamp,Home,Delhi,Marketplace,1,1599,23,1231.23,740,1231.23,491.23
+D26-00364,12-10-2026,Pre-Diwali,P005,LED Smart Bulb Set,Electronics,Kolkata,Amazon.in,1,1299,6,1221.06,620,1221.06,601.06
+D26-00365,15-10-2026,Pre-Diwali,P014,Sunglasses,Fashion,Bengaluru,Amazon.in,3,1899,37,1196.37,830,3589.11,1099.11
+D26-00366,01-10-2026,Pre-Diwali,P005,LED Smart Bulb Set,Electronics,Mumbai,Marketplace,1,1299,5,1234.05,620,1234.05,614.05
+D26-00367,25-10-2026,Diwali Week,P007,Mixer Grinder,Home,Delhi,Amazon.in,3,5499,5,5224.05,3400,15672.15,5472.15
+D26-00368,30-10-2026,Post-Diwali,P005,LED Smart Bulb Set,Electronics,Kolkata,Amazon.in,2,1299,29,922.29,620,1844.58,604.58
+D26-00369,07-10-2026,Pre-Diwali,P020,Chocolate Hamper,Grocery,Jaipur,Marketplace,3,999,10,899.1,580,2697.3,957.3
+D26-00370,30-10-2026,Post-Diwali,P013,Cotton Kurta,Fashion,Pune,Amazon.in,3,1499,22,1169.22,680,3507.66,1467.66
+D26-00371,10-10-2026,Pre-Diwali,P017,Hair Dryer,Beauty,Jaipur,Marketplace,4,2499,33,1674.33,1300,6697.32,1497.32
+D26-00372,24-10-2026,Diwali Week,P016,Skincare Gift Set,Beauty,Hyderabad,Marketplace,2,1599,7,1487.07,750,2974.14,1474.14
+D26-00373,01-11-2026,Post-Diwali,P014,Sunglasses,Fashion,Mumbai,Amazon.in,3,1899,8,1747.08,830,5241.24,2751.24
+D26-00374,21-10-2026,Diwali Week,P009,Cookware Set,Home,Bengaluru,Marketplace,4,3999,28,2879.28,2200,11517.12,2717.12
+D26-00375,20-10-2026,Pre-Diwali,P019,Dry Fruit Gift Box,Grocery,Hyderabad,Marketplace,1,1299,7,1208.07,820,1208.07,388.07
+D26-00376,25-10-2026,Diwali Week,P011,Running Shoes,Fashion,Pune,Amazon.in,3,3799,36,2431.36,2100,7294.08,994.08
+D26-00377,07-11-2026,Post-Diwali,P012,Backpack,Fashion,Kolkata,Amazon.in,4,2299,19,1862.19,1150,7448.76,2848.76
+D26-00378,25-10-2026,Diwali Week,P008,Bedsheet Set,Home,Hyderabad,Amazon.in,2,1999,13,1739.13,920,3478.26,1638.26
+D26-00379,01-10-2026,Pre-Diwali,P010,Decorative Lamp,Home,Delhi,Marketplace,4,1599,22,1247.22,740,4988.88,2028.88
+D26-00380,11-10-2026,Pre-Diwali,P017,Hair Dryer,Beauty,Bengaluru,Marketplace,2,2499,24,1899.24,1300,3798.48,1198.48
+D26-00381,22-10-2026,Diwali Week,P016,Skincare Gift Set,Beauty,Mumbai,Marketplace,2,1599,7,1487.07,750,2974.14,1474.14
+D26-00382,09-11-2026,Post-Diwali,P015,Wrist Watch,Fashion,Delhi,Amazon.in,1,2799,40,1679.4,1450,1679.4,229.4
+D26-00383,11-10-2026,Pre-Diwali,P002,Smart Watch,Electronics,Mumbai,Marketplace,3,4999,9,4549.09,2900,13647.27,4947.27
+D26-00384,05-11-2026,Post-Diwali,P007,Mixer Grinder,Home,Jaipur,Amazon.in,2,5499,26,4069.26,3400,8138.52,1338.52
+D26-00385,09-10-2026,Pre-Diwali,P002,Smart Watch,Electronics,Pune,Amazon.in,3,4999,19,4049.19,2900,12147.57,3447.57
+D26-00386,24-10-2026,Diwali Week,P014,Sunglasses,Fashion,Mumbai,Marketplace,2,1899,31,1310.31,830,2620.62,960.62
+D26-00387,18-10-2026,Pre-Diwali,P007,Mixer Grinder,Home,Kolkata,Amazon.in,4,5499,20,4399.2,3400,17596.8,3996.8
+D26-00388,20-10-2026,Pre-Diwali,P006,Air Fryer,Home,Jaipur,Marketplace,3,8999,32,6119.32,5700,18357.96,1257.96
+D26-00389,29-10-2026,Diwali Week,P012,Backpack,Fashion,Jaipur,Marketplace,3,2299,17,1908.17,1150,5724.51,2274.51
+D26-00390,28-10-2026,Diwali Week,P006,Air Fryer,Home,Hyderabad,Marketplace,4,8999,19,7289.19,5700,29156.76,6356.76
+D26-00391,01-11-2026,Post-Diwali,P009,Cookware Set,Home,Delhi,Marketplace,3,3999,20,3199.2,2200,9597.6,2997.6
+D26-00392,27-10-2026,Diwali Week,P007,Mixer Grinder,Home,Jaipur,Amazon.in,3,5499,23,4234.23,3400,12702.69,2502.69
+D26-00393,12-10-2026,Pre-Diwali,P010,Decorative Lamp,Home,Hyderabad,Amazon.in,4,1599,24,1215.24,740,4860.96,1900.96
+D26-00394,03-11-2026,Post-Diwali,P015,Wrist Watch,Fashion,Pune,Amazon.in,3,2799,25,2099.25,1450,6297.75,1947.75
+D26-00395,08-11-2026,Post-Diwali,P020,Chocolate Hamper,Grocery,Delhi,Amazon.in,1,999,19,809.19,580,809.19,229.19
+D26-00396,11-11-2026,Post-Diwali,P003,Bluetooth Speaker,Electronics,Jaipur,Amazon.in,3,3299,23,2540.23,1800,7620.69,2220.69
+D26-00397,12-11-2026,Post-Diwali,P019,Dry Fruit Gift Box,Grocery,Mumbai,Amazon.in,3,1299,20,1039.2,820,3117.6,657.6
+D26-00398,10-10-2026,Pre-Diwali,P003,Bluetooth Speaker,Electronics,Delhi,Marketplace,4,3299,29,2342.29,1800,9369.16,2169.16
+D26-00399,03-10-2026,Pre-Diwali,P007,Mixer Grinder,Home,Jaipur,Marketplace,1,5499,22,4289.22,3400,4289.22,889.22
+D26-00400,16-10-2026,Pre-Diwali,P020,Chocolate Hamper,Grocery,Pune,Amazon.in,3,999,36,639.36,580,1918.08,178.08
+D26-00401,21-10-2026,Diwali Week,P009,Cookware Set,Home,Hyderabad,Amazon.in,2,3999,16,3359.16,2200,6718.32,2318.32
+D26-00402,11-10-2026,Pre-Diwali,P013,Cotton Kurta,Fashion,Bengaluru,Marketplace,3,1499,39,914.39,680,2743.17,703.17
+D26-00403,07-10-2026,Pre-Diwali,P019,Dry Fruit Gift Box,Grocery,Chennai,Marketplace,4,1299,24,987.24,820,3948.96,668.96
+D26-00404,20-10-2026,Pre-Diwali,P009,Cookware Set,Home,Chennai,Amazon.in,4,3999,38,2479.38,2200,9917.52,1117.52
+D26-00405,05-11-2026,Post-Diwali,P012,Backpack,Fashion,Jaipur,Amazon.in,1,2299,34,1517.34,1150,1517.34,367.34
+D26-00406,15-10-2026,Pre-Diwali,P010,Decorative Lamp,Home,Chennai,Marketplace,3,1599,36,1023.36,740,3070.08,850.08
+D26-00407,22-10-2026,Diwali Week,P002,Smart Watch,Electronics,Chennai,Marketplace,3,4999,22,3899.22,2900,11697.66,2997.66
+D26-00408,27-10-2026,Diwali Week,P001,Wireless Earbuds,Electronics,Delhi,Amazon.in,1,2499,30,1749.3,1350,1749.3,399.3
+D26-00409,09-10-2026,Pre-Diwali,P004,Power Bank,Electronics,Jaipur,Marketplace,4,1799,6,1691.06,950,6764.24,2964.24
+D26-00410,07-10-2026,Pre-Diwali,P004,Power Bank,Electronics,Jaipur,Amazon.in,4,1799,39,1097.39,950,4389.56,589.56
+D26-00411,29-10-2026,Diwali Week,P008,Bedsheet Set,Home,Kolkata,Marketplace,4,1999,27,1459.27,920,5837.08,2157.08
+D26-00412,11-11-2026,Post-Diwali,P001,Wireless Earbuds,Electronics,Mumbai,Marketplace,3,2499,14,2149.14,1350,6447.42,2397.42
+D26-00413,17-10-2026,Pre-Diwali,P005,LED Smart Bulb Set,Electronics,Hyderabad,Amazon.in,4,1299,11,1156.11,620,4624.44,2144.44
+D26-00414,31-10-2026,Post-Diwali,P010,Decorative Lamp,Home,Chennai,Amazon.in,4,1599,37,1007.37,740,4029.48,1069.48
+D26-00415,10-11-2026,Post-Diwali,P006,Air Fryer,Home,Delhi,Marketplace,2,8999,27,6569.27,5700,13138.54,1738.54
+D26-00416,03-10-2026,Pre-Diwali,P014,Sunglasses,Fashion,Mumbai,Marketplace,4,1899,32,1291.32,830,5165.28,1845.28
+D26-00417,10-11-2026,Post-Diwali,P020,Chocolate Hamper,Grocery,Chennai,Marketplace,2,999,16,839.16,580,1678.32,518.32
+D26-00418,05-10-2026,Pre-Diwali,P018,Perfume Gift Set,Beauty,Jaipur,Marketplace,2,2999,31,2069.31,1550,4138.62,1038.62
+D26-00419,24-10-2026,Diwali Week,P016,Skincare Gift Set,Beauty,Pune,Marketplace,4,1599,25,1199.25,750,4797,1797
+D26-00420,21-10-2026,Diwali Week,P011,Running Shoes,Fashion,Bengaluru,Marketplace,3,3799,12,3343.12,2100,10029.36,3729.36
+D26-00421,03-11-2026,Post-Diwali,P004,Power Bank,Electronics,Delhi,Amazon.in,1,1799,20,1439.2,950,1439.2,489.2
+D26-00422,19-10-2026,Pre-Diwali,P004,Power Bank,Electronics,Hyderabad,Amazon.in,1,1799,36,1151.36,950,1151.36,201.36
+D26-00423,15-10-2026,Pre-Diwali,P003,Bluetooth Speaker,Electronics,Kolkata,Amazon.in,3,3299,19,2672.19,1800,8016.57,2616.57
+D26-00424,30-10-2026,Post-Diwali,P009,Cookware Set,Home,Mumbai,Amazon.in,1,3999,15,3399.15,2200,3399.15,1199.15
+D26-00425,07-11-2026,Post-Diwali,P020,Chocolate Hamper,Grocery,Chennai,Amazon.in,1,999,15,849.15,580,849.15,269.15
+D26-00426,06-11-2026,Post-Diwali,P012,Backpack,Fashion,Pune,Amazon.in,2,2299,5,2184.05,1150,4368.1,2068.1
+D26-00427,29-10-2026,Diwali Week,P004,Power Bank,Electronics,Jaipur,Marketplace,1,1799,6,1691.06,950,1691.06,741.06
+D26-00428,25-10-2026,Diwali Week,P003,Bluetooth Speaker,Electronics,Hyderabad,Amazon.in,2,3299,19,2672.19,1800,5344.38,1744.38
+D26-00429,07-11-2026,Post-Diwali,P011,Running Shoes,Fashion,Mumbai,Amazon.in,1,3799,38,2355.38,2100,2355.38,255.38
+D26-00430,05-10-2026,Pre-Diwali,P005,LED Smart Bulb Set,Electronics,Kolkata,Amazon.in,3,1299,5,1234.05,620,3702.15,1842.15
+D26-00431,24-10-2026,Diwali Week,P017,Hair Dryer,Beauty,Kolkata,Marketplace,2,2499,28,1799.28,1300,3598.56,998.56
+D26-00432,11-11-2026,Post-Diwali,P001,Wireless Earbuds,Electronics,Delhi,Marketplace,2,2499,35,1624.35,1350,3248.7,548.7
+D26-00433,23-10-2026,Diwali Week,P007,Mixer Grinder,Home,Chennai,Marketplace,4,5499,14,4729.14,3400,18916.56,5316.56
+D26-00434,10-10-2026,Pre-Diwali,P019,Dry Fruit Gift Box,Grocery,Bengaluru,Amazon.in,2,1299,33,870.33,820,1740.66,100.66
+D26-00435,07-11-2026,Post-Diwali,P009,Cookware Set,Home,Chennai,Amazon.in,3,3999,20,3199.2,2200,9597.6,2997.6
+D26-00436,01-10-2026,Pre-Diwali,P010,Decorative Lamp,Home,Kolkata,Marketplace,1,1599,17,1327.17,740,1327.17,587.17
+D26-00437,22-10-2026,Diwali Week,P003,Bluetooth Speaker,Electronics,Chennai,Amazon.in,3,3299,24,2507.24,1800,7521.72,2121.72
+D26-00438,13-10-2026,Pre-Diwali,P005,LED Smart Bulb Set,Electronics,Chennai,Amazon.in,3,1299,7,1208.07,620,3624.21,1764.21
+D26-00439,13-10-2026,Pre-Diwali,P019,Dry Fruit Gift Box,Grocery,Delhi,Amazon.in,3,1299,40,779.4,820,2338.2,-121.8
+D26-00440,17-10-2026,Pre-Diwali,P006,Air Fryer,Home,Mumbai,Amazon.in,3,8999,5,8549.05,5700,25647.15,8547.15
+D26-00441,28-10-2026,Diwali Week,P011,Running Shoes,Fashion,Hyderabad,Amazon.in,1,3799,30,2659.3,2100,2659.3,559.3
+D26-00442,30-10-2026,Post-Diwali,P007,Mixer Grinder,Home,Bengaluru,Marketplace,2,5499,39,3354.39,3400,6708.78,-91.22
+D26-00443,01-11-2026,Post-Diwali,P004,Power Bank,Electronics,Jaipur,Marketplace,2,1799,37,1133.37,950,2266.74,366.74
+D26-00444,06-10-2026,Pre-Diwali,P005,LED Smart Bulb Set,Electronics,Jaipur,Marketplace,1,1299,12,1143.12,620,1143.12,523.12
+D26-00445,14-11-2026,Post-Diwali,P005,LED Smart Bulb Set,Electronics,Kolkata,Amazon.in,1,1299,36,831.36,620,831.36,211.36
+D26-00446,20-10-2026,Pre-Diwali,P012,Backpack,Fashion,Jaipur,Amazon.in,4,2299,21,1816.21,1150,7264.84,2664.84
+D26-00447,12-11-2026,Post-Diwali,P008,Bedsheet Set,Home,Jaipur,Amazon.in,3,1999,9,1819.09,920,5457.27,2697.27
+D26-00448,01-10-2026,Pre-Diwali,P007,Mixer Grinder,Home,Mumbai,Marketplace,2,5499,17,4564.17,3400,9128.34,2328.34
+D26-00449,15-10-2026,Pre-Diwali,P010,Decorative Lamp,Home,Delhi,Marketplace,3,1599,28,1151.28,740,3453.84,1233.84
+D26-00450,07-11-2026,Post-Diwali,P018,Perfume Gift Set,Beauty,Hyderabad,Amazon.in,2,2999,14,2579.14,1550,5158.28,2058.28
+D26-00451,04-11-2026,Post-Diwali,P005,LED Smart Bulb Set,Electronics,Mumbai,Marketplace,2,1299,24,987.24,620,1974.48,734.48
+D26-00452,25-10-2026,Diwali Week,P010,Decorative Lamp,Home,Bengaluru,Amazon.in,4,1599,21,1263.21,740,5052.84,2092.84
+D26-00453,01-10-2026,Pre-Diwali,P012,Backpack,Fashion,Kolkata,Marketplace,2,2299,11,2046.11,1150,4092.22,1792.22
+D26-00454,06-10-2026,Pre-Diwali,P011,Running Shoes,Fashion,Chennai,Amazon.in,1,3799,7,3533.07,2100,3533.07,1433.07
+D26-00455,24-10-2026,Diwali Week,P011,Running Shoes,Fashion,Chennai,Marketplace,1,3799,27,2773.27,2100,2773.27,673.27
+D26-00456,07-11-2026,Post-Diwali,P002,Smart Watch,Electronics,Pune,Marketplace,3,4999,14,4299.14,2900,12897.42,4197.42
+D26-00457,04-11-2026,Post-Diwali,P014,Sunglasses,Fashion,Chennai,Amazon.in,3,1899,10,1709.1,830,5127.3,2637.3
+D26-00458,15-10-2026,Pre-Diwali,P006,Air Fryer,Home,Kolkata,Marketplace,4,8999,14,7739.14,5700,30956.56,8156.56
+D26-00459,28-10-2026,Diwali Week,P016,Skincare Gift Set,Beauty,Bengaluru,Amazon.in,4,1599,25,1199.25,750,4797,1797
+D26-00460,17-10-2026,Pre-Diwali,P005,LED Smart Bulb Set,Electronics,Delhi,Marketplace,1,1299,34,857.34,620,857.34,237.34
+D26-00461,07-11-2026,Post-Diwali,P020,Chocolate Hamper,Grocery,Hyderabad,Marketplace,4,999,12,879.12,580,3516.48,1196.48
+D26-00462,25-10-2026,Diwali Week,P002,Smart Watch,Electronics,Bengaluru,Amazon.in,3,4999,24,3799.24,2900,11397.72,2697.72
+D26-00463,02-11-2026,Post-Diwali,P010,Decorative Lamp,Home,Kolkata,Marketplace,4,1599,30,1119.3,740,4477.2,1517.2
+D26-00464,04-11-2026,Post-Diwali,P019,Dry Fruit Gift Box,Grocery,Pune,Marketplace,1,1299,22,1013.22,820,1013.22,193.22
+D26-00465,05-10-2026,Pre-Diwali,P001,Wireless Earbuds,Electronics,Chennai,Marketplace,2,2499,14,2149.14,1350,4298.28,1598.28
+D26-00466,14-10-2026,Pre-Diwali,P017,Hair Dryer,Beauty,Kolkata,Marketplace,2,2499,17,2074.17,1300,4148.34,1548.34
+D26-00467,23-10-2026,Diwali Week,P003,Bluetooth Speaker,Electronics,Bengaluru,Amazon.in,2,3299,22,2573.22,1800,5146.44,1546.44
+D26-00468,16-10-2026,Pre-Diwali,P007,Mixer Grinder,Home,Delhi,Marketplace,1,5499,23,4234.23,3400,4234.23,834.23
+D26-00469,12-10-2026,Pre-Diwali,P010,Decorative Lamp,Home,Hyderabad,Amazon.in,2,1599,14,1375.14,740,2750.28,1270.28
+D26-00470,25-10-2026,Diwali Week,P008,Bedsheet Set,Home,Kolkata,Marketplace,1,1999,13,1739.13,920,1739.13,819.13
+D26-00471,12-11-2026,Post-Diwali,P010,Decorative Lamp,Home,Pune,Amazon.in,4,1599,9,1455.09,740,5820.36,2860.36
+D26-00472,07-10-2026,Pre-Diwali,P018,Perfume Gift Set,Beauty,Chennai,Amazon.in,1,2999,40,1799.4,1550,1799.4,249.4
+D26-00473,20-10-2026,Pre-Diwali,P002,Smart Watch,Electronics,Hyderabad,Marketplace,2,4999,39,3049.39,2900,6098.78,298.78
+D26-00474,04-11-2026,Post-Diwali,P003,Bluetooth Speaker,Electronics,Pune,Amazon.in,3,3299,17,2738.17,1800,8214.51,2814.51
+D26-00475,14-10-2026,Pre-Diwali,P008,Bedsheet Set,Home,Jaipur,Marketplace,3,1999,36,1279.36,920,3838.08,1078.08
+D26-00476,24-10-2026,Diwali Week,P007,Mixer Grinder,Home,Jaipur,Amazon.in,3,5499,27,4014.27,3400,12042.81,1842.81
+D26-00477,21-10-2026,Diwali Week,P019,Dry Fruit Gift Box,Grocery,Hyderabad,Marketplace,2,1299,24,987.24,820,1974.48,334.48
+D26-00478,08-11-2026,Post-Diwali,P011,Running Shoes,Fashion,Delhi,Marketplace,2,3799,37,2393.37,2100,4786.74,586.74
+D26-00479,02-11-2026,Post-Diwali,P002,Smart Watch,Electronics,Hyderabad,Amazon.in,4,4999,32,3399.32,2900,13597.28,1997.28
+D26-00480,14-11-2026,Post-Diwali,P013,Cotton Kurta,Fashion,Chennai,Amazon.in,3,1499,16,1259.16,680,3777.48,1737.48
+D26-00481,18-10-2026,Pre-Diwali,P004,Power Bank,Electronics,Kolkata,Amazon.in,3,1799,13,1565.13,950,4695.39,1845.39
+D26-00482,31-10-2026,Post-Diwali,P016,Skincare Gift Set,Beauty,Chennai,Amazon.in,3,1599,21,1263.21,750,3789.63,1539.63
+D26-00483,18-10-2026,Pre-Diwali,P020,Chocolate Hamper,Grocery,Delhi,Amazon.in,3,999,12,879.12,580,2637.36,897.36
+D26-00484,10-11-2026,Post-Diwali,P005,LED Smart Bulb Set,Electronics,Delhi,Marketplace,2,1299,19,1052.19,620,2104.38,864.38
+D26-00485,22-10-2026,Diwali Week,P017,Hair Dryer,Beauty,Jaipur,Amazon.in,3,2499,11,2224.11,1300,6672.33,2772.33
+D26-00486,19-10-2026,Pre-Diwali,P019,Dry Fruit Gift Box,Grocery,Bengaluru,Marketplace,4,1299,33,870.33,820,3481.32,201.32
+D26-00487,10-11-2026,Post-Diwali,P015,Wrist Watch,Fashion,Mumbai,Marketplace,1,2799,22,2183.22,1450,2183.22,733.22
+D26-00488,01-11-2026,Post-Diwali,P011,Running Shoes,Fashion,Pune,Marketplace,2,3799,20,3039.2,2100,6078.4,1878.4
+D26-00489,14-11-2026,Post-Diwali,P019,Dry Fruit Gift Box,Grocery,Kolkata,Amazon.in,1,1299,23,1000.23,820,1000.23,180.23
+D26-00490,12-10-2026,Pre-Diwali,P015,Wrist Watch,Fashion,Chennai,Amazon.in,2,2799,18,2295.18,1450,4590.36,1690.36
+D26-00491,09-10-2026,Pre-Diwali,P017,Hair Dryer,Beauty,Pune,Marketplace,2,2499,28,1799.28,1300,3598.56,998.56
+D26-00492,16-10-2026,Pre-Diwali,P006,Air Fryer,Home,Pune,Amazon.in,3,8999,20,7199.2,5700,21597.6,4497.6
+D26-00493,04-11-2026,Post-Diwali,P017,Hair Dryer,Beauty,Hyderabad,Marketplace,2,2499,19,2024.19,1300,4048.38,1448.38
+D26-00494,21-10-2026,Diwali Week,P012,Backpack,Fashion,Chennai,Marketplace,1,2299,36,1471.36,1150,1471.36,321.36
+D26-00495,01-11-2026,Post-Diwali,P016,Skincare Gift Set,Beauty,Pune,Marketplace,4,1599,11,1423.11,750,5692.44,2692.44
+D26-00496,13-10-2026,Pre-Diwali,P010,Decorative Lamp,Home,Mumbai,Marketplace,2,1599,25,1199.25,740,2398.5,918.5
+D26-00497,08-11-2026,Post-Diwali,P020,Chocolate Hamper,Grocery,Hyderabad,Amazon.in,2,999,29,709.29,580,1418.58,258.58
+D26-00498,18-10-2026,Pre-Diwali,P007,Mixer Grinder,Home,Delhi,Amazon.in,3,5499,24,4179.24,3400,12537.72,2337.72
+D26-00499,27-10-2026,Diwali Week,P014,Sunglasses,Fashion,Pune,Amazon.in,4,1899,38,1177.38,830,4709.52,1389.52
+D26-00500,01-10-2026,Pre-Diwali,P007,Mixer Grinder,Home,Hyderabad,Marketplace,2,5499,31,3794.31,3400,7588.62,788.62
